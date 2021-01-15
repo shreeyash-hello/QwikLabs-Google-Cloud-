@@ -1,1 +1,1 @@
-# QwikLabs-Google-Cloud-
+# QwikLabs-Google-Cloud
